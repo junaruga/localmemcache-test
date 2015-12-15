@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    localmemcache (0.4.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  localmemcache
