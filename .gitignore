@@ -1,0 +1,16 @@
+# Mac
+.DS_Store
+._*
+# vi
+*.swp
+# Emacs
+*~
+# Hidemaru
+*.BAK
+# Rbenv, RVM
+.*-*
+# Bundler
+.bundle
+# This project
+vendor/bundler
+/viewcounters.lmc
